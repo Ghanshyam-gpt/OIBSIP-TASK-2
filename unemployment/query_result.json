@@ -1,0 +1,6 @@
+{
+  "query": "Top 5 states for jobs",
+  "answer": "The top 5 states by Opportunity Score are: **Uttar Pradesh, Maharashtra, West Bengal, Telangana, Meghalaya**. #1 is **Uttar Pradesh** with a score of 65.9/100.",
+  "metadata_summary": "**Intent:** `top_states`  |  **Category:** Ranking Analysis  |  **Confidence:** 98%  |  **Source:** Derived state-level summary",
+  "technical_notes": "<sub>Top N states sorted by Opportunity_Score descending.</sub>"
+}
